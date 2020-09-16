@@ -1,6 +1,6 @@
-# meme_world
+# meme_app
 
-A new Flutter project.
+An app to generate Meme using Flutter.
 
 ## Getting Started
 
